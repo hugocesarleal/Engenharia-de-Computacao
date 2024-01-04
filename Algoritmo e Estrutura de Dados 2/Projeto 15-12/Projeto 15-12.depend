@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1671102647 source:c:\users\hugo\desktop\implement2.cpp
+
+1671106520 source:c:\users\hugo\desktop\projeto 15-12\main.cpp
+	<iostream>
+	<clocale>
+	"biblio2.h"
+
+1671107021 source:c:\users\hugo\desktop\projeto 15-12\implement1.cpp
+	<iostream>
+	"biblio1.h"
+
+1671106838 source:c:\users\hugo\desktop\projeto 15-12\implement2.cpp
+	<iostream>
+	"biblio2.h"
+
+1671107037 c:\users\hugo\desktop\projeto 15-12\biblio1.h
+
+1671106838 c:\users\hugo\desktop\projeto 15-12\biblio2.h
+	"biblio1.h"
+	<iostream>
+
